@@ -1,3 +1,6 @@
+To actually install this, follow the directions from the cmake folder. With those you can incorporate the glog to your project.
+
+
 This repository contains a C++ implementation of the Google logging
 module.  Documentation for the implementation is in doc/.
 
